@@ -6,7 +6,7 @@
 
 ## About
 
-Open Source Group
+Open Source Tech Community Group
 
 <u>turquoise-space@googlegroups.com</u>
 
