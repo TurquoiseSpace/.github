@@ -1,8 +1,10 @@
 
 # Turquoise Space
 
+<br>
 
-### About
+
+## About
 
 Open Source Group
 
@@ -10,8 +12,10 @@ Open Source Group
 
 <b>© 2020 - 2023</b>
 
+<br>
 
-### People
+
+## People
 
 - [Prakhar Makhija](https://github.com/matcdac)
 
@@ -30,7 +34,9 @@ Java
 Kotlin
 ```
 
+<br>
 
-### Visitor Count
+
+## Visitor Count
 
 ![Profile Visit Count](https://profile-counter.glitch.me/TurquoiseSpace/count.svg)
