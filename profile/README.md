@@ -26,6 +26,16 @@ Linux
 JavaScript
 ```
 
+- [Nirmal Kumar Sharma](https://github.com/nirmalkumarsharma)
+
+```
+Java
+Docker
+Linux
+AWS
+Elasticsearch
+```
+
 - [Brajendra Kumar Pandey](https://github.com/Brajendra)
 
 ```
