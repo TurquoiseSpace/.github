@@ -10,7 +10,7 @@ Open Source Tech Community Group
 
 <u>turquoise-space@googlegroups.com</u>
 
-<b>© 2020 - 2023</b>
+<b>© 2020 - ∞</b>
 
 <br>
 
